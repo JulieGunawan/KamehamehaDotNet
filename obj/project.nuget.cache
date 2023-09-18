@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0Fb4lvmNW7LJVT3h15zw4uEPvW+2wJoZ12UExliCt/BXbz1pd8PcjBmglB5Cr6XUjk1/OAw3rEO2JmFIV4r/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h4m_h\\Documents\\dotnet\\myWebApp\\Kamehameha\\Kamehameha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h4m_h\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
