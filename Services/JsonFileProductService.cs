@@ -18,7 +18,7 @@ namespace Kamehameha.Services
         public IEnumerable<Product> GetProducts()
         {
             using var jsonFileReader = File.OpenText(JsonFileName);
-            return JsonSerializer.Deserialize < Product[]>(jsonFileReader.ReadToEnd(),
+            return JsonSerializer.Deserialize<Product[]>(jsonFileReader.ReadToEnd(),
                 new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
